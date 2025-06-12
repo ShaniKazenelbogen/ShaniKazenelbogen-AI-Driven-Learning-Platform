@@ -1,0 +1,367 @@
+H:\חדש\שני\Chat\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+H:\חדש\שני\Chat\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\חדש\שני\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+H:\חדש\שני\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+H:\חדש\שני\Chat\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+H:\חדש\שני\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+H:\חדש\שני\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\AI\Chat\Server\bin\Debug\net8.0\appsettings.Development.json
+H:\AI\Chat\Server\bin\Debug\net8.0\appsettings.json
+H:\AI\Chat\Server\bin\Debug\net8.0\Server.exe
+H:\AI\Chat\Server\bin\Debug\net8.0\Server.deps.json
+H:\AI\Chat\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+H:\AI\Chat\Server\bin\Debug\net8.0\Server.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Server.pdb
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\AI\Chat\Server\obj\Debug\net8.0\staticwebassets.build.json
+H:\AI\Chat\Server\obj\Debug\net8.0\staticwebassets.development.json
+H:\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+H:\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+H:\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+H:\AI\Chat\Server\obj\Debug\net8.0\staticwebassets.pack.json
+H:\AI\Chat\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.dll
+H:\AI\Chat\Server\obj\Debug\net8.0\refint\Server.dll
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.pdb
+H:\AI\Chat\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+H:\AI\Chat\Server\obj\Debug\net8.0\ref\Server.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Azure.Core.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Azure.Identity.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.ClientModel.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Memory.Data.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Text.Json.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Bl.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Dal.dll
+H:\AI\Chat\Server\bin\Debug\net8.0\Bl.pdb
+H:\AI\Chat\Server\bin\Debug\net8.0\Dal.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\appsettings.Development.json
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\appsettings.json
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Server.exe
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Server.deps.json
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Server.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Server.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Azure.Core.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Azure.Identity.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.ClientModel.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Memory.Data.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Text.Json.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Bl.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Dal.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Bl.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Server\bin\Debug\net8.0\Dal.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\staticwebassets.build.json
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\staticwebassets.development.json
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\staticwebassets.pack.json
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\refint\Server.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\appsettings.json
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Server.exe
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Server.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Bl.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Bl.pdb
+C:\Users\This User\Desktop\שני\AI\Chat\Server\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\appsettings.json
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Server.exe
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Server.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Bl.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Bl.pdb
+C:\Users\This User\Desktop\שני\Chat\Server\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.dll
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\This User\Desktop\שני\Chat\Server\obj\Debug\net8.0\ref\Server.dll

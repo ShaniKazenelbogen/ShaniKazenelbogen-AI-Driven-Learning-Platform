@@ -1,0 +1,71 @@
+H:\חדש\שני\Chat\Bl\bin\Debug\net8.0\Bl.deps.json
+H:\חדש\שני\Chat\Bl\bin\Debug\net8.0\Bl.dll
+H:\חדש\שני\Chat\Bl\bin\Debug\net8.0\Bl.pdb
+H:\חדש\שני\Chat\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\חדש\שני\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+H:\חדש\שני\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+H:\חדש\שני\Chat\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+H:\חדש\שני\Chat\Bl\obj\Debug\net8.0\Bl.dll
+H:\חדש\שני\Chat\Bl\obj\Debug\net8.0\refint\Bl.dll
+H:\חדש\שני\Chat\Bl\obj\Debug\net8.0\Bl.pdb
+H:\חדש\שני\Chat\Bl\obj\Debug\net8.0\ref\Bl.dll
+H:\AI\Chat\Bl\bin\Debug\net8.0\Bl.deps.json
+H:\AI\Chat\Bl\bin\Debug\net8.0\Bl.dll
+H:\AI\Chat\Bl\bin\Debug\net8.0\Bl.pdb
+H:\AI\Chat\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\AI\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+H:\AI\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+H:\AI\Chat\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+H:\AI\Chat\Bl\obj\Debug\net8.0\Bl.dll
+H:\AI\Chat\Bl\obj\Debug\net8.0\refint\Bl.dll
+H:\AI\Chat\Bl\obj\Debug\net8.0\Bl.pdb
+H:\AI\Chat\Bl\obj\Debug\net8.0\ref\Bl.dll
+H:\AI\Chat\Bl\bin\Debug\net8.0\Dal.dll
+H:\AI\Chat\Bl\bin\Debug\net8.0\Dal.pdb
+H:\AI\Chat\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+H:\AI\Chat\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\bin\Debug\net8.0\Bl.deps.json
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\bin\Debug\net8.0\Bl.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\bin\Debug\net8.0\Bl.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\bin\Debug\net8.0\Dal.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\bin\Debug\net8.0\Dal.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\Bl.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\refint\Bl.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\Bl.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Bl\obj\Debug\net8.0\ref\Bl.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\bin\Debug\net8.0\Bl.deps.json
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\bin\Debug\net8.0\Bl.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\bin\Debug\net8.0\Bl.pdb
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\Bl.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\refint\Bl.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\Bl.pdb
+C:\Users\This User\Desktop\שני\AI\Chat\Bl\obj\Debug\net8.0\ref\Bl.dll
+C:\Users\This User\Desktop\שני\Chat\Bl\bin\Debug\net8.0\Bl.deps.json
+C:\Users\This User\Desktop\שני\Chat\Bl\bin\Debug\net8.0\Bl.dll
+C:\Users\This User\Desktop\שני\Chat\Bl\bin\Debug\net8.0\Bl.pdb
+C:\Users\This User\Desktop\שני\Chat\Bl\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שני\Chat\Bl\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\Bl.dll
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\refint\Bl.dll
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\Bl.pdb
+C:\Users\This User\Desktop\שני\Chat\Bl\obj\Debug\net8.0\ref\Bl.dll

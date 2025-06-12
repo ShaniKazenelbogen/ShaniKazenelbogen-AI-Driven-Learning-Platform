@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|solutionrelative:server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|solutionrelative:bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|solutionrelative:bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\models\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\models\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.prompts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.sub_categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\models\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\models\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.prompts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\bl\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|solutionrelative:bl\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\repositories\\promptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\promptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\server\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|solutionrelative:server\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\bl\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|solutionrelative:bl\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.sub_categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|solutionrelative:server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\repositories\\subcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\subcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\bl\\services\\interfaces\\ipromptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|solutionrelative:bl\\services\\interfaces\\ipromptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\repositories\\openairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\openairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\AppData\\Local\\Temp\\oqvdh0mr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\bl\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|solutionrelative:bl\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|solutionrelative:bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T09:48:05.771Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Server\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:05:30.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:49:23.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\UserService.cs",
+              "RelativeToolTip": "Bl\\Services\\UserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:00:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Bl\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:57:30.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\Prompt.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\Prompt.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\Prompt.cs",
+              "RelativeToolTip": "Dal\\Models\\Prompt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:59:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbClass.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\dbClass.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\dbClass.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\dbClass.cs",
+              "RelativeToolTip": "Dal\\Models\\dbClass.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:58:45.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:49:57.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.sub_categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.sub_categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.sub_categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-12T14:00:20.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.prompts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.prompts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.prompts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-12T14:01:11.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.users.sql",
+              "ToolTip": "dbo.users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-12T14:00:30.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-12T14:00:15.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PromptRepository.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\PromptRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\PromptRepository.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\PromptRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\PromptRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:53:49.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PromptService.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\PromptService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\PromptService.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\PromptService.cs",
+              "RelativeToolTip": "Bl\\Services\\PromptService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:01:52.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.prompts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.prompts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.prompts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-12T12:29:13.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:54:42.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PromptController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Controllers\\PromptController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\PromptController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Controllers\\PromptController.cs",
+              "RelativeToolTip": "Server\\Controllers\\PromptController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:07:41.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OpenAIService.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\OpenAIService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\OpenAIService.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\OpenAIService.cs",
+              "RelativeToolTip": "Bl\\Services\\OpenAIService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:50:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-12T07:40:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.sub_categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.sub_categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.sub_categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-12T07:41:23.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_AI_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-11T13:47:00.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:07:05.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\SubCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\SubCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\SubCategoryRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\SubCategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:01:54.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\Category.cs",
+              "RelativeToolTip": "Dal\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:18:12.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPromptService.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\Interfaces\\IPromptService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\Interfaces\\IPromptService.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\Interfaces\\IPromptService.cs",
+              "RelativeToolTip": "Bl\\Services\\Interfaces\\IPromptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:58:25.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OpenAIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\OpenAIRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\OpenAIRepository.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\OpenAIRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\OpenAIRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:20:29.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "oqvdh0mr..sql",
+              "DocumentMoniker": "C:\\Users\\This User\\AppData\\Local\\Temp\\oqvdh0mr..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\oqvdh0mr..sql",
+              "ToolTip": "C:\\Users\\This User\\AppData\\Local\\Temp\\oqvdh0mr..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\oqvdh0mr..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-11T16:09:22.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\User.cs",
+              "RelativeToolTip": "Dal\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:59:38.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\SubCategory.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\SubCategory.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\SubCategory.cs",
+              "RelativeToolTip": "Dal\\Models\\SubCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:59:10.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Bl\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:01:09.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Bl\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:57:56.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Bl.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Bl.csproj",
+              "RelativeDocumentMoniker": "Bl\\Bl.csproj",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Bl.csproj",
+              "RelativeToolTip": "Bl\\Bl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T07:28:20.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Dal.csproj",
+              "RelativeDocumentMoniker": "Dal\\Dal.csproj",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Dal.csproj",
+              "RelativeToolTip": "Dal\\Dal.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T16:10:59.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T07:25:02.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

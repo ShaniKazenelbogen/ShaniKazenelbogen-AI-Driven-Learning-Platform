@@ -1,0 +1,61 @@
+H:\חדש\שני\Chat\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+H:\חדש\שני\Chat\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\חדש\שני\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\חדש\שני\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\חדש\שני\Chat\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\AI\Chat\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+H:\AI\Chat\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\AI\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\AI\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\AI\Chat\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\AI\Chat\Dal\bin\Debug\net8.0\Dal.deps.json
+H:\AI\Chat\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+H:\AI\Chat\Dal\bin\Debug\net8.0\Dal.dll
+H:\AI\Chat\Dal\bin\Debug\net8.0\Dal.pdb
+H:\AI\Chat\Dal\obj\Debug\net8.0\Dal.dll
+H:\AI\Chat\Dal\obj\Debug\net8.0\refint\Dal.dll
+H:\AI\Chat\Dal\obj\Debug\net8.0\Dal.pdb
+H:\AI\Chat\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+H:\AI\Chat\Dal\obj\Debug\net8.0\ref\Dal.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\bin\Debug\net8.0\Dal.deps.json
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\bin\Debug\net8.0\Dal.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\bin\Debug\net8.0\Dal.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\Dal.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\refint\Dal.dll
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\Dal.pdb
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+J:\‏‏תיקיה חדשה\AI\Chat\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\This User\Desktop\שני\AI\Chat\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\This User\Desktop\שני\Chat\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\This User\Desktop\שני\Chat\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\This User\Desktop\שני\Chat\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שני\Chat\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\This User\Desktop\שני\Chat\Dal\obj\Debug\net8.0\ref\Dal.dll
