@@ -95,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{7AE8655C-BB92-4D1B-8A92-C9A0F965CBAE}|Bl\\Bl.csproj|solutionrelative:bl\\services\\interfaces\\ipromptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\dal\\repositories\\openairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E110CC2-36FA-44A1-B4E1-14CCFD1145B1}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\openairepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\AppData\\Local\\Temp\\oqvdh0mr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
@@ -128,6 +124,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|c:\\users\\this user\\desktop\\\u05E9\u05E0\u05D9\\chat\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0D3F8262-80F0-403B-8B6C-B3C4AAAB71B3}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\OpenAIRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal\\Repositories\\OpenAIRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,8 +158,8 @@
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Controllers\\UserController.cs*",
-              "RelativeToolTip": "Server\\Controllers\\UserController.cs*",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Server\\Controllers\\UserController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T10:05:30.066Z",
@@ -175,8 +175,7 @@
               "RelativeToolTip": "Dal\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T09:49:23.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T09:49:23.828Z"
             },
             {
               "$type": "Document",
@@ -188,8 +187,7 @@
               "RelativeToolTip": "Bl\\Services\\UserService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T10:00:17.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T10:00:17.346Z"
             },
             {
               "$type": "Document",
@@ -201,8 +199,7 @@
               "RelativeToolTip": "Bl\\Services\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T09:57:30.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T09:57:30.879Z"
             },
             {
               "$type": "Document",
@@ -214,8 +211,7 @@
               "RelativeToolTip": "Dal\\Models\\Prompt.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:59:07.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T17:59:07.273Z"
             },
             {
               "$type": "Document",
@@ -262,9 +258,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "dbo.users [Data]",
+              "Title": "dbo.users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.users.sql",
-              "ToolTip": "dbo.users [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_THIS_USER_DESKTOP_\u05E9\u05E0\u05D9_CHAT_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.users.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-06-12T14:00:30.566Z"
             },
@@ -423,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "OpenAIRepository.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Repositories\\OpenAIRepository.cs",
               "RelativeDocumentMoniker": "Dal\\Repositories\\OpenAIRepository.cs",
@@ -435,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "oqvdh0mr..sql",
               "DocumentMoniker": "C:\\Users\\This User\\AppData\\Local\\Temp\\oqvdh0mr..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\oqvdh0mr..sql",
@@ -446,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\User.cs",
               "RelativeDocumentMoniker": "Dal\\Models\\User.cs",
@@ -458,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "SubCategory.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Models\\SubCategory.cs",
               "RelativeDocumentMoniker": "Dal\\Models\\SubCategory.cs",
@@ -470,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Bl\\Services\\CategoryService.cs",
@@ -482,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Bl\\Services\\Interfaces\\ICategoryService.cs",
@@ -494,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "Bl.csproj",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Bl\\Bl.csproj",
               "RelativeDocumentMoniker": "Bl\\Bl.csproj",
@@ -506,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "Dal.csproj",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Dal\\Dal.csproj",
               "RelativeDocumentMoniker": "Dal\\Dal.csproj",
@@ -518,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "Server.csproj",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E9\u05E0\u05D9\\Chat\\Server\\Server.csproj",
               "RelativeDocumentMoniker": "Server\\Server.csproj",
